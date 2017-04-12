@@ -1,3 +1,3 @@
 # ToDoList
-https://meddokss.github.io/ToDoList/ -- ссылка онлайн
+https://taskdonerep.github.io/todoList.github.io -- ссылка онлайн
 
